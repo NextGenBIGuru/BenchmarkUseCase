@@ -1,0 +1,11 @@
+First query:
+
+summarize how the companies from the list below recovered financially from COVID using the list of items I provided below, make sure to include numbers. show the reference and the company name for each bullet point from the list I provided you. each bullet point to be 1-2 lines. Also, put the results in a table with 3 columns, column 1: company name, column 2: the bullet point, and column 3: reference
+
+Second Query:
+
+for the table below, create 4 categories to group the points for each of the companies based on contents and add a category column, finally put them in a table. maintain the same structure of the table just add another column named category use the same categories for all companies.
+
+Third Query
+
+create summary paragraph for the list I provided below. summary should be around 100 words for each company in a table format with two colums. column 1: company name and column 2: summary.
